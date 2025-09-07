@@ -6,11 +6,11 @@ Considera un lenguaje que conozcas bien y analízalo en términos de los cuatro 
 
 1. Generalizaciones simbólicas (Reglas escritas del lenguaje):
 
-- Usa etiquetas (tags) que se abren <etiqueta> y se cierran </etiqueta>.
+- Usa etiquetas (tags) que se abren (etiqueta) y se cierran (/etiqueta)z.
 
-- La estructura básica tiene <!DOCTYPE html>, <html>, <head>, <body>.
+- La estructura básica tiene !DOCTYPE html, html, head, body.
 
-- Los atributos se escriben dentro de las etiquetas, por ejemplo <img src="imagen.jpg" alt="texto">.
+- Los atributos se escriben dentro de las etiquetas, por ejemplo (img src="imagen.jpg" alt="texto").
 
 2. Creencias de los profesionales (Características que se consideran mejores que otros lenguajes):
 
@@ -24,7 +24,7 @@ Considera un lenguaje que conozcas bien y analízalo en términos de los cuatro 
 
 3. Valores (Pensamientos o estilos de programación que consideran mejores):
 
-- El código debe ser semántico: usar las etiquetas correctas (<header>, <footer>, <article>, <nav>)          para dar significado al contenido.
+- El código debe ser semántico: usar las etiquetas correctas (header), (footer), (article), (nav) para dar significado al contenido.
 
 - Mantener un código ordenado y legible.
 
